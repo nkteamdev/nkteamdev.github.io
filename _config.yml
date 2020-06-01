@@ -24,8 +24,9 @@ description              : "Blog chia sẻ kiến thức kĩ thuật."
 url                      : "https://nkteam.dev"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nkteamdev/nkteamdev.github.io"
-logo                     : "/assets/images/88x88.png"
+logo                     : # path of logo image to display in the masthead, e.g. 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+teaser                   : /assets/images/500x300.png
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
