@@ -27,6 +27,8 @@ repository               : "nkteamdev/nkteamdev.github.io"
 logo                     : # path of logo image to display in the masthead, e.g. 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 teaser                   : /assets/images/500x300.png
+header:
+  teaser: /assets/images/my-awesome-post-teaser.jpg
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
